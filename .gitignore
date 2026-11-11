@@ -3,6 +3,6 @@
 ./load/__pycache__/
 ./extract/__pycache__/
 ./transform/__pycache__/
-./.git
+./.git/
 ./.gitignore
 ./viz/plugins/
